@@ -74,8 +74,8 @@ Copyright © 2020, Duncan McGreggor <oubiwann@gmail.com>.
 [gh-actions-badge]: https://github.com/oubiwann/goldy/workflows/ci%2Fcd/badge.svg
 [gh-actions]: https://github.com/oubiwann/goldy/actions
 [lfe]: https://github.com/rvirding/lfe
-[lfe-badge]: https://img.shields.io/badge/lfe-1.3.0-blue.svg
-[erlang-badge]: https://img.shields.io/badge/erlang-19%20to%2023-blue.svg
+[lfe-badge]: https://img.shields.io/badge/lfe-2.0+-blue.svg
+[erlang-badge]: https://img.shields.io/badge/erlang-21+-blue.svg
 [versions]: https://github.com/oubiwann/goldy/blob/master/.github/workflows/cicd.yml#L17
 [github-tags]: https://github.com/oubiwann/goldy/tags
 [github-tags-badge]: https://img.shields.io/github/tag/oubiwann/goldy.svg
