@@ -100,7 +100,7 @@
               port (proplists:get_value 'port opts (default-port))))
 
 (defun receive-lines ()
-  (receive-line '() (default-receive-timeout)))
+  (receive-lines '() (default-receive-timeout)))
 
 (defun receive-lines (buffer timeout)
   (receive
